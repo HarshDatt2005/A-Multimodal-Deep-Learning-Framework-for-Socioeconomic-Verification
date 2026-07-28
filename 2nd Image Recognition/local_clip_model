@@ -1,0 +1,10 @@
+Download the files of the clip model and paste it in this folder.
+The files names are listed below:
+1. config
+2. merges
+3. preprocessor_config
+4. pytorch_model.bin
+5. special_tokens_map
+6. tokenizer
+7. tokenizer_config
+8. vocab
