@@ -1,0 +1,3 @@
+This folder includes the ouput from Google Collab regarding the image recognition model training (06_Model_Training.ipynb).
+Here, due to upload constraints, the model's weight and the zip file of the images used for model training are not attached !!!
+To get the weights, one needs to run the 06_Model_Training.ipynb file in Google Collab after pasting the IMAGES_PADDED_.zip file in the same folder.
