@@ -1,0 +1,3 @@
+The original weight of the image recognition model is not here, due to the upload constraints.
+The weight of the model can be downloaded by running the 06_Model_Training.ipynb file from 3rd Image Recognition folder.
+The weigths needs to placed in place of this file with the same name.
