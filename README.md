@@ -13,7 +13,7 @@ This project aims to develop a dual-phase supervised machine learning framework 
 
 ## 📖 Project Objective & Methodology Overview
 
-This project develops a dual-phase supervised machine learning framework to accurately classify households' Below Poverty Line (BPL) status and detect potential welfare misrepresentation. 
+This project develops a dual-phase supervised machine learning framework to accurately classify households' Below Poverty Line (BPL) status and detect potential welfare misrepresentation. Here one will not find the data in the excel files as they are not to be shared!! 
 
 * **Baseline Classification (Tabular-Only):** Trains an initial predictive model relying exclusively on self-reported demographic and financial measures.
 * **Multimodal Classification (Tabular + Visual):** Integrates the baseline tabular data with physical wealth features extracted via an image processing pipeline.
